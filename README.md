@@ -1,6 +1,3 @@
-# code-samples
-
-
 # Code Style Showcase
 
 This small repository contains two handpicked backend files that demonstrate my coding style, structure, and attention to clean, maintainable code. These examples are written in **TypeScript** using **NestJS**, and they reflect how I approach real-world backend logic with a focus on modularity and readability.
